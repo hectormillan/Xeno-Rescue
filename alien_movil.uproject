@@ -28,7 +28,7 @@
 		},
 		{
 			"Name": "ModelingToolsEditorMode",
-			"Enabled": false
+			"Enabled": true
 		},
 		{
 			"Name": "DazToUnreal",

@@ -32,7 +32,7 @@
 		},
 		{
 			"Name": "DazToUnreal",
-			"Enabled": true
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [

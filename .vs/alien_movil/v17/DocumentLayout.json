@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Proyectos\\Unreal\\Xeno-Rescue\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Proyectos\\Unreal\\Xeno-Rescue\\Source\\alien_movil\\MyCharacter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\alien_movil\\MyCharacter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Proyectos\\Unreal\\Xeno-Rescue\\Source\\alien_movil\\MyCharacter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Source\\alien_movil\\MyCharacter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyCharacter.cpp",
+              "DocumentMoniker": "C:\\Proyectos\\Unreal\\Xeno-Rescue\\Source\\alien_movil\\MyCharacter.cpp",
+              "RelativeDocumentMoniker": "Source\\alien_movil\\MyCharacter.cpp",
+              "ToolTip": "C:\\Proyectos\\Unreal\\Xeno-Rescue\\Source\\alien_movil\\MyCharacter.cpp",
+              "RelativeToolTip": "Source\\alien_movil\\MyCharacter.cpp",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-11T17:20:28.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyCharacter.h",
+              "DocumentMoniker": "C:\\Proyectos\\Unreal\\Xeno-Rescue\\Source\\alien_movil\\MyCharacter.h",
+              "RelativeDocumentMoniker": "Source\\alien_movil\\MyCharacter.h",
+              "ToolTip": "C:\\Proyectos\\Unreal\\Xeno-Rescue\\Source\\alien_movil\\MyCharacter.h",
+              "RelativeToolTip": "Source\\alien_movil\\MyCharacter.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-11T17:20:27.41Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
